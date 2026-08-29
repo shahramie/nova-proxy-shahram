@@ -128,7 +128,7 @@ On licensing: Nova releases through 4.2.0 were published under the MIT license, 
 
 Built for ep Iran <img src="https://raw.githubusercontent.com/IRNova/Nova-Proxy/main/flag-iran.svg" height="16" alt="Iran (Lion and Sun)" />, and everyone who needs an open internet.
 
-**None of your traffic is logged. The proxy is yours.**
+**None of your traffic is logged. The proxy is yours.** 
 
 📖 [نسخهٔ فارسی / Persian version](README.fa.md)
 
