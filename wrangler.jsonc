@@ -5,7 +5,7 @@
   "compatibility_date": "2026-07-30",
   "compatibility_flags": ["nodejs_compat"],
   "d1_databases": [
-    { "binding": "DB","database_id": "0f8887a7-5451-4817-94be-bf172e7731d6","database_name": "nova-proxy-shahram" }
+    { "binding": "DB","database_id": "163a438a-f786-4a32-b8bf-943f47096688","database_name": "nova-proxy-shahram" }
   ],
   "kv_namespaces": [
     { "binding": "KV","id": "ccbd6da640574255a5918a30fe6cb22b" }
